@@ -1,0 +1,9 @@
+.table-container {
+    overflow: auto;
+    padding: 0px 10px 10px 10px;
+    min-height: 300px;
+    max-height: 600px;
+  } 
+  .mdc-data-table__header-cell {
+    padding: 0 0 0 -80px;
+}
